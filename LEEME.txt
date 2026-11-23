@@ -1,10 +1,6 @@
-JM AUDIOVISUAL TOOLS
+JM AV TOOLS - GRID GENERATOR, TIME GENERATOR y TELEPROMPTER
 
-Sube el contenido de esta carpeta a la raíz de un repositorio de GitHub Pages.
-
-IMPORTANTE: GRID GENERATOR requiere los siguientes archivos adicionales en grid-generator/:
-- GRID.GENERATOR.png
-- INFO_JUANMIAV.png
-- PressStart2P.ttf (fuente opcional, para conservar su aspecto exacto)
-
-Los dos HTML originales se han mantenido con sus funciones y se ha añadido una barra para volver al menú.
+Sube el contenido de esta carpeta a la raíz del repositorio de GitHub Pages.
+El teleprompter está en teleprompter/index.html.
+La importación .docx utiliza JSZip desde CDN y requiere conexión a Internet; .txt funciona sin conexión.
+La segunda ventana debe abrirse en el mismo navegador y origen.
