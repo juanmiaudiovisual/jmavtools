@@ -1,0 +1,10 @@
+JM AUDIOVISUAL TOOLS
+
+Sube el contenido de esta carpeta a la raíz de un repositorio de GitHub Pages.
+
+IMPORTANTE: GRID GENERATOR requiere los siguientes archivos adicionales en grid-generator/:
+- GRID.GENERATOR.png
+- INFO_JUANMIAV.png
+- PressStart2P.ttf (fuente opcional, para conservar su aspecto exacto)
+
+Los dos HTML originales se han mantenido con sus funciones y se ha añadido una barra para volver al menú.
